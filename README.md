@@ -7,12 +7,6 @@ ____
 2. Being able to efficiently judge candidates.
 3. Give clear career progress/expectation for our people.
 
-# **Inspiration**
-
-1. [https://levels.patreon.com/](https://levels.patreon.com/)
-2. [https://www.levels.fyi/](https://www.levels.fyi/)
-3. [https://docs.google.com/spreadsheets/d/191W5mWcCTfcR5kdKbXlJ7bEB9O6DCmX9otaO1VKsIF0/edit#gid=202974047](https://docs.google.com/spreadsheets/d/191W5mWcCTfcR5kdKbXlJ7bEB9O6DCmX9otaO1VKsIF0/edit#gid=202974047)
-
 # **Levels**
 
 ### E1
@@ -268,3 +262,9 @@ ____
 - Ambassador for Patreon externally, drawing engineers to the company.
 - Recognized leader within company and possibly in broader technical community.
 - Leads complex initiatives with long-term, strategic value.
+
+
+# **Inspiration**
+
+1. [https://levels.patreon.com/](https://levels.patreon.com/)
+2. [https://www.levels.fyi/](https://www.levels.fyi/)
