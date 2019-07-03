@@ -7,6 +7,15 @@ ____
 2. Being able to efficiently judge candidates.
 3. Give clear career progress/expectation for our people.
 
+# **FAQ**
+
+1. *Q: What does it mean for me if I am for example "E2"?*
+ A: It means that you satisfy most of the criteria of this level (not necessarily all of them) and you are expected to bring your part into the company based on skills you have as described in the document. For example, “E2” should be able to work independently most of the time and seek help when it is needed, being able to work with requirements, mentor more junior engineers and much more. It’s not a problem if you can’t do 100% of what is outlined but you should aim for it.
+2. *Q: What is my current level?*
+ A: You tell it. Evaluate your level based on what you can and what you don’t feel confident in yet. There will be a process to set a level of each engineer in the company, but for now we are concentrating on outlining levels themselves.
+3. *Q: How do I upgrade to next level?*
+ A: Easy - be sure you satisfy all requirements from your current level and most of the next level’s ones. Go to your team lead or mentor once you feel it is the case.
+
 # **Levels**
 
 ### E1
