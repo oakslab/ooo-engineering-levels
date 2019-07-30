@@ -267,8 +267,8 @@ ____
 - Expert on company&#39;s platform, architecture, and workflow.
 - Builds leaders at OOO.
 - Educates across the org.
-- Defines and models Patreon engineering brand, patterns, and practices.
-- Ambassador for Patreon externally, drawing engineers to the company.
+- Defines and models OOO engineering brand, patterns, and practices.
+- Ambassador for OOO externally, drawing engineers to the company.
 - Recognized leader within company and possibly in broader technical community.
 - Leads complex initiatives with long-term, strategic value.
 
